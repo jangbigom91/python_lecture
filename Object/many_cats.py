@@ -4,3 +4,9 @@ class Cat:
 
 nabi = Cat()
 nabi.meow()
+
+nero = Cat()
+nero.meow()
+
+mimi = Cat()
+mimi.meow()
